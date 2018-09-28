@@ -12,9 +12,9 @@ self-introduction mind map
 #### 키
 > 158cm
 #### 학력
-> 타이중여자고등학교 TCGS  
+> [타이중여자고등학교](http://itcgs.tcgs.tc.edu.tw/tcgs/)  
 
-> 서울시립대학교 컴퓨터과학부
+> [서울시립대학교 컴퓨터과학부](http://cs.uos.ac.kr/cs/main.do)
 #### SNS
 > Inatagram [chi_rm](http://instagram.com/chi_rm)  
 
@@ -36,5 +36,4 @@ self-introduction mind map
 ## 좋아하는
 #### 책
 > [被窩是青春的墳墓](http://www.eslite.com/product.aspx?pgid=1001183842652379&kw=被窩是青春的墳墓&pi=0)
->> 작자 ######七堇年
-
+> [언어의온도](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&barcode=9791195522125)
