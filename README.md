@@ -34,4 +34,5 @@ self-introduction mind map
 #### 영상만들기
 > Youtube [RuAN RUAN](https://www.youtube.com/channel/UCkgYuPLbCXadpVhIv9rj6og?view_as=subscriber) 
 #### 드라마보기
-> 시티헌터  한국어 배우는 계기
+> 시티헌터
+>> 한국어 배우는 계기
