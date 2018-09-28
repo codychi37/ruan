@@ -6,7 +6,7 @@ self-introduction mind map
 #### 국적
 > 대만 Taiwan  
 
-> ![TW](http://thefactfile-lxh7vfdm.stackpathdns.com/wp-content/uploads/2016/04/Map-of-Taiwan.png)
+![TW](http://thefactfile-lxh7vfdm.stackpathdns.com/wp-content/uploads/2016/04/Map-of-Taiwan.png)
 #### 생년
 > 1999/12/15
 #### 키
@@ -31,3 +31,7 @@ self-introduction mind map
 > 수영  
 
 > 배구
+#### 영상만들기
+> Youtube [RuAN RUAN](https://www.youtube.com/channel/UCkgYuPLbCXadpVhIv9rj6og?view_as=subscriber) 
+#### 드라마보기
+> 시티헌터  한국어 배우는 계기
