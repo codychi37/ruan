@@ -22,7 +22,7 @@ self-introduction mind map
 
 > Youtube [RuAN RUAN](https://www.youtube.com/channel/UCkgYuPLbCXadpVhIv9rj6og?view_as=subscriber)  
 ## 경력
-##### 한국어능력시험 TOPIK 5 급
+##### 한국어능력시험(TOPIK)5 급
 ##### TCGS Broadcast Research Club | Education Officer
 > [BRC23](https://youtu.be/ZvUhtwuFKSQ) Introduction Video | Producer</br>
 > MCCxBRC Winter Project | Instructor</br>
