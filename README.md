@@ -31,6 +31,10 @@ self-introduction mind map
 > 수영  
 
 > 배구
+#### 언어
+> 한국어  
+
+> 영어
 #### 영상만들기
 > Youtube [RuAN RUAN](https://www.youtube.com/channel/UCkgYuPLbCXadpVhIv9rj6og?view_as=subscriber) 
 ## 좋아하는
@@ -41,7 +45,23 @@ self-introduction mind map
 #### 드라마
 > 시티헌터
 >> 한국어 배우는 계기
+#### 영화
+> [악녀](https://namu.wiki/w/악녀(영화))  
 
+> [아저씨](https://namu.wiki/w/아저씨(영화))
+#### 연예인
+> 방탄소년단
+>> [피땀눈물](https://youtu.be/hmE9f-TEutc), [봄날](https://youtu.be/xEeFrLSkMm8)
+> 인피니트
+>> [태풍](https://youtu.be/Cmhca-ROWwQ), [Back](https://youtu.be/YiiqHq_kNnU)
+#### 유튜버
+> [lizzydaily](https://www.youtube.com/user/MrLiz0908)  
 
+> [craziejulia](https://www.youtube.com/channel/UCec_7OC0VlWA2i9CJz1UtyQ)
+#### 음식
+> 대만
+>> 버블티, 루로우판
+> 한국
+>> 김치찌개, 된장찌개
 
 
