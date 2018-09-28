@@ -24,8 +24,13 @@ self-introduction mind map
 ## 경력
 ##### 한국어능력시험 TOPIK 5 급
 ##### TCGS Broadcast Research Club Education Officer
-##### QingShui E.S. Ochestra Concertmaster
-
+> BRC 23rd Introduction Video Producer</br>
+> MCCxBRC Winter Project Instructor</br>
+> MCCxBRC Annual Presitation Micro Film *不預見的遇見* Director
+##### Ochestra Concertmaster
+> Qingshui E.S.</br>
+> Huagang J.H.</br>
+> Qingshui J.H.
 ## 취미
 #### 음악
 > 바이올린  
