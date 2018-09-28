@@ -51,7 +51,8 @@ self-introduction mind map
 > [아저씨](https://namu.wiki/w/아저씨(영화))
 #### 연예인
 > 방탄소년단
->> [피땀눈물](https://youtu.be/hmE9f-TEutc), [봄날](https://youtu.be/xEeFrLSkMm8)
+>> [피땀눈물](https://youtu.be/hmE9f-TEutc), [봄날](https://youtu.be/xEeFrLSkMm8)  
+
 > 인피니트
 >> [태풍](https://youtu.be/Cmhca-ROWwQ), [Back](https://youtu.be/YiiqHq_kNnU)
 #### 유튜버
@@ -60,7 +61,8 @@ self-introduction mind map
 > [craziejulia](https://www.youtube.com/channel/UCec_7OC0VlWA2i9CJz1UtyQ)
 #### 음식
 > 대만
->> 버블티, 루로우판
+>> 버블티, 루로우판  
+
 > 한국
 >> 김치찌개, 된장찌개
 
