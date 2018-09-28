@@ -16,10 +16,10 @@ self-introduction mind map
 
 서울시립대학교 컴퓨터과학부
 #### SNS
-[inatagram : chi_rm](http://instagram.com/chi_rm)  
+Inatagram [chi_rm](http://instagram.com/chi_rm)  
 
-[facebook : Claire Luan](https://www.facebook.com/profile.php?id=100001259964047)  
+Facebook [Claire Luan](https://www.facebook.com/profile.php?id=100001259964047)  
 
-[youtube : RuAN RUAN](https://www.youtube.com/channel/UCkgYuPLbCXadpVhIv9rj6og?view_as=subscriber)  
+Youtube [RuAN RUAN](https://www.youtube.com/channel/UCkgYuPLbCXadpVhIv9rj6og?view_as=subscriber)  
 
 
