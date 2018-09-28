@@ -21,6 +21,10 @@ self-introduction mind map
 > Facebook [Claire Luan](https://www.facebook.com/profile.php?id=100001259964047)  
 
 > Youtube [RuAN RUAN](https://www.youtube.com/channel/UCkgYuPLbCXadpVhIv9rj6og?view_as=subscriber)  
+## 경력
+##### 한국어능력시험 TOPIK 5 급
+##### TCGS Broadcast Research Club Education Officer
+##### QingShui E.S. Ochestra Concertmaster
 
 ## 취미
 #### 음악
@@ -65,17 +69,17 @@ self-introduction mind map
 
 > 한국
 >> 김치찌개, 된장찌개
-
-## 목표
-##### 살빼기
-##### 프로그램밍 잘 배우기
-##### 한국어 잘 배우기
-##### 여행
+#### 여행
 > Have Been
 >> 상하이, 부산, 대구, 강원도  
 
 > 가고싶은
 >> 저장, 태국, LA...
+## 목표
+##### 살빼기
+##### 프로그램밍 잘 배우기
+##### 한국어 잘 배우기
+
 
 
 
