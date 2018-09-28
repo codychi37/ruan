@@ -1,7 +1,7 @@
 # ruan
 self-introduction mind map
 
-# <table><tr><td bgcolor=orange>루안리치 Luan Lichi 欒立頎</td></tr></table>
+# <table><tr><td bgcolor=#ff8000>루안리치 Luan Lichi 欒立頎</td></tr></table>
 ## 나
 #### 국적
 > 대만 Taiwan  
