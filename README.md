@@ -16,7 +16,7 @@ self-introduction mind map
 
 > [서울시립대학교 컴퓨터과학부](http://cs.uos.ac.kr/cs/main.do)
 #### SNS
-루안리치> Inatagram [chi_rm](http://instagram.com/chi_rm)  
+> Instagram [chi_rm](http://instagram.com/chi_rm)  
 
 > Facebook [Claire Luan](https://www.facebook.com/profile.php?id=100001259964047)  
 
