@@ -1,7 +1,7 @@
 # ruan
 self-introduction mind map
 
-# <table><tr><td bgcolor=#ff8000>루안리치 Luan Lichi 欒立頎</td></tr></table>
+# 루안리치 Luan Lichi 欒立頎
 ## 나
 #### 국적
 > 대만 Taiwan  
@@ -16,7 +16,7 @@ self-introduction mind map
 
 > [서울시립대학교 컴퓨터과학부](http://cs.uos.ac.kr/cs/main.do)
 #### SNS
-> Inatagram [chi_rm](http://instagram.com/chi_rm)  
+루안리치> Inatagram [chi_rm](http://instagram.com/chi_rm)  
 
 > Facebook [Claire Luan](https://www.facebook.com/profile.php?id=100001259964047)  
 
@@ -65,5 +65,13 @@ self-introduction mind map
 
 > 한국
 >> 김치찌개, 된장찌개
+
+## 하고싶은
+#### 살빼기
+#### 프로그램밍 잘 배우기
+#### 한국어 잘 배우기
+#### 세계여행
+
+
 
 
