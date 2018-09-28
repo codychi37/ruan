@@ -33,6 +33,8 @@ self-introduction mind map
 > 배구
 #### 영상만들기
 > Youtube [RuAN RUAN](https://www.youtube.com/channel/UCkgYuPLbCXadpVhIv9rj6og?view_as=subscriber) 
-#### 드라마보기
-> 시티헌터
->> 한국어 배우는 계기
+## 좋아하는
+#### 책
+> [被窩是青春的墳墓](http://www.eslite.com/product.aspx?pgid=1001183842652379&kw=被窩是青春的墳墓&pi=0)
+>> 작자 ######七堇年
+
