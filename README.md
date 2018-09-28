@@ -22,4 +22,10 @@ Facebook [Claire Luan](https://www.facebook.com/profile.php?id=100001259964047)
 
 Youtube [RuAN RUAN](https://www.youtube.com/channel/UCkgYuPLbCXadpVhIv9rj6og?view_as=subscriber)  
 
-
+## 취미
+#### 음악
+> 바이올린
+> 피아노
+#### 운동
+> 수영
+> 배구
