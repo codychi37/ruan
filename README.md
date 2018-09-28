@@ -24,11 +24,10 @@ self-introduction mind map
 ## 경력
 ##### 한국어능력시험 TOPIK 5 급
 ##### TCGS Broadcast Research Club Education Officer
-> [BRC23][] Introduction Video Producer</br>
+> [BRC23](https://youtu.be/ZvUhtwuFKSQ) Introduction Video Producer</br>
 > MCCxBRC Winter Project Instructor</br>
-> MCCxBRC Annual Presitation Micro Film [<不預見的遇見>][film] Director
-[film] : https://youtu.be/JVTTnF527U0
-[BRC23] : https://youtu.be/ZvUhtwuFKSQ
+> MCCxBRC Annual Presitation Micro Film [<不預見的遇見>](https://youtu.be/JVTTnF527U0) Director
+
 ##### Ochestra Concertmaster
 > Qingshui E.S.</br>
 > Huagang J.H.</br>
