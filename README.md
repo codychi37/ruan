@@ -2,7 +2,7 @@
 self-introduction mind map
 
 # 루안리치 Luan Lichi 欒立頎
-## 나
+## ME
 #### 국적
 > 대만 Taiwan  
 
@@ -22,7 +22,10 @@ self-introduction mind map
 
 > Youtube [RuAN RUAN](https://www.youtube.com/channel/UCkgYuPLbCXadpVhIv9rj6og?view_as=subscriber)  
 ## 경력
-##### 한국어능력시험(TOPIK)5 급
+##### 한국어능력시험 TOPIK
+> 2016/10 2급</br>
+> 2017/10 4급</br>
+> 2018/04 5급
 ##### TCGS Broadcast Research Club | Education Officer
 > [BRC23](https://youtu.be/ZvUhtwuFKSQ) Introduction Video | Producer</br>
 > MCCxBRC Winter Project | Instructor</br>
