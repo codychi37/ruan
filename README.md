@@ -15,8 +15,11 @@
 > [서울시립대학교 컴퓨터과학부](http://cs.uos.ac.kr/cs/main.do) 재학
 ##### 가족
 > 아빠</br>
+>> 퇴역군인 공군</br>
 > 엄마</br>
-> 남동생
+>> 교사</br>
+> 남동생</br>
+>> 고등학교 1학년
 ##### SNS
 > Instagram [chi_rm](http://instagram.com/chi_rm)</br>
 > Facebook [Claire Luan](https://www.facebook.com/profile.php?id=100001259964047)</br>
