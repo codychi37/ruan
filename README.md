@@ -3,12 +3,12 @@
 
 *[1.ME](#1)</br>
 
-*[2.Experience](#2))</br>
+*[2.Experience](#2)</br>
 
-*[3.Hobbies](#3))</br>
+*[3.Hobbies](#3)</br>
 
 
-## <id="1"> ME </id>
+<h2 id="1"> ME </h2>
 ##### 이름
 > 중국어 : 欒立頎</br>
 > 한국어 : 루안리치</br>
