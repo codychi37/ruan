@@ -4,7 +4,7 @@
 ##### 이름
 > 중국어 : 欒立頎</br>
 > 한국어 : 루안리치</br>
-![pic](https://www.facebook.com/photo.php?fbid=1328856457166340&set=a.123318361053495&type=3&theater)
+![pic](https://pbs.twimg.com/media/DoQLhX8UwAAW7OP.jpg)
 > 영어 : Luan Lichi / Claire
 ##### 국적
 > 대만 Taiwan  
