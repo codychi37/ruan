@@ -34,7 +34,7 @@
 ##### TCGS Broadcast Research Club | Education Officer
 > [BRC23](https://youtu.be/ZvUhtwuFKSQ) Introduction Video | Producer</br>
 > MCCxBRC Winter Project | Instructor</br>
-> MCCxBRC Annual Presitation <Indulgency> Micro Film [<不預見的遇見>](https://youtu.be/JVTTnF527U0) | Director
+> MCCxBRC Annual Presitation <<Indulgency>> Micro Film [<不預見的遇見>](https://youtu.be/JVTTnF527U0) | Director
 
 ##### Ochestra Concertmaster
 > Qingshui E.S.</br>
