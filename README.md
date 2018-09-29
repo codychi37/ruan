@@ -1,14 +1,13 @@
 
 # My self-introduction mind map
 
+## 목록
 *[1.ME](#1)</br>
-
 *[2.Experience](#2)</br>
-
 *[3.Hobbies](#3)</br>
 
 
-<h2 id="1"> ME </h2>
+<id="1"> ## ME </id>
 ##### 이름
 > 중국어 : 欒立頎</br>
 > 한국어 : 루안리치</br>
@@ -53,7 +52,7 @@
 > Huagang J.H.</br>
 > Qingshui J.H.
 
-## Hobbies
+<id="1"> ## HOBBIES </id>
 ##### 음악
 > 바이올린</br>
 > 피아노
