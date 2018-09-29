@@ -1,5 +1,5 @@
 
-<font color="purple"> My self-introduction mind map <font>
+*My self-introduction mind map*
 
 ## 목록
 [1. ME](#1)</br>
