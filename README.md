@@ -14,12 +14,9 @@
 > [타이중여자고등학교](http://itcgs.tcgs.tc.edu.tw/tcgs/) 졸업</br>
 > [서울시립대학교 컴퓨터과학부](http://cs.uos.ac.kr/cs/main.do) 재학
 ##### 가족
-> 아빠
->> 퇴역공군군인</br>
-> 엄마
->> 교사</br>
+> 아빠</br>
+> 엄마</br>
 > 남동생
->> 고등학교 1학년
 ##### SNS
 > Instagram [chi_rm](http://instagram.com/chi_rm)</br>
 > Facebook [Claire Luan](https://www.facebook.com/profile.php?id=100001259964047)</br>
