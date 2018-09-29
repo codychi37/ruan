@@ -22,6 +22,10 @@
 
 > 남동생
 >> 고등학교 1학년
+##### 성격
+> optimistic</br>
+> independent</br>
+> adaptable
 ##### SNS
 > Instagram [chi_rm](http://instagram.com/chi_rm)</br>
 > Facebook [Claire Luan](https://www.facebook.com/profile.php?id=100001259964047)</br>
@@ -82,7 +86,7 @@
 > 프로그램밍 잘 배우기</br>
 > 한국어 잘 배우기</br>
 
-![pic](https://scontent-icn1-1.xx.fbcdn.net/v/t1.0-9/42785679_2007578235960822_5411442330903248896_n.jpg?_nc_cat=102&oh=4b2b528151a1015c89d36a83547a22b7&oe=5C6082BE)
+![pic](https://scontent-icn1-1.xx.fbcdn.net/v/t1.0-9/42713158_2007590222626290_5600804462571552768_n.jpg?_nc_cat=107&oh=51f424adbd4621f2ebe9bdf60c67490c&oe=5C23976C)
 
 
 
