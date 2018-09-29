@@ -1,5 +1,5 @@
 
-<center> *RUAN's self-introdution mind map* </center>
+*RUAN's self-introdution mind map*
 
 ## 목록
 [1. ME](#1)</br>
