@@ -1,5 +1,5 @@
 
-# My self-introduction mind map
+<h1><font color=purple> My self-introduction mind map </h1></font>
 
 ## 목록
 [1. ME](#1)</br>
@@ -12,11 +12,11 @@
 <h2 id="1"> ME </h2>
 
 ##### 이름
- - 중국어 : 欒立頎</br>
-          - 한국어 : 루안리치</br>
-                  - 영어 : Luan Lichi / Claire
+> 중국어 : 欒立頎</br>
+> 한국어 : 루안리치</br>
+> 영어 : Luan Lichi / Claire
 ##### 국적
-> 대만 Taiwan  
+> 대만 Taiwan
 >> 타이중 Taichung
 ##### 생일
 > 1999/12/15
