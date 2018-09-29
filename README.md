@@ -10,6 +10,7 @@
 
 
 <h2 id="1"> ME </h2>
+
 ##### 이름
 > 중국어 : 欒立頎</br>
 > 한국어 : 루안리치</br>
@@ -39,7 +40,9 @@
 > Instagram [chi_rm](http://instagram.com/chi_rm)</br>
 > Facebook [Claire Luan](https://www.facebook.com/profile.php?id=100001259964047)</br>
 > Youtube [RuAN RUAN](https://www.youtube.com/channel/UCkgYuPLbCXadpVhIv9rj6og?view_as=subscriber)  
+
 <h2 id="2"> Experience </h2>
+
 ##### 한국어능력시험 TOPIK
 > 2016/10 2급</br>
 > 2017/10 4급</br>
@@ -54,7 +57,8 @@
 > Huagang J.H.</br>
 > Qingshui J.H.
 
-<h2 id="2"> HOBBIES </h2>
+<h2 id="3"> HOBBIES </h2>
+
 ##### 음악
 > 바이올린</br>
 > 피아노
@@ -63,7 +67,9 @@
 > 배구
 ##### 영상만들기
 > Youtube [RuAN RUAN](https://www.youtube.com/channel/UCkgYuPLbCXadpVhIv9rj6og?view_as=subscriber) 
+
 <h2 id="4"> I like... </h2>
+
 ##### 책
 > [被窩是青春的墳墓](http://www.eslite.com/product.aspx?pgid=1001183842652379&kw=被窩是青春的墳墓&pi=0)</br>
 > [언어의온도](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&barcode=9791195522125)
@@ -91,6 +97,7 @@
 ##### 여행
 
 <h2 id="5"> Targets </h5>
+
 > 살빼기</br>
 > 프로그램밍 잘 배우기</br>
 > 한국어 잘 배우기</br>
