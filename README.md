@@ -2,11 +2,11 @@
 # My self-introduction mind map
 
 ## 목록
-*[1.ME](#1)</br>
-*[2.Experience](#2)</br>
-*[3.Hobbies](#3)</br>
-*[4.I Like...](#4)</br>
-*[5.Target](#5)<?br>
+[1.ME](#1)</br>
+[2.Experience](#2)</br>
+[3.Hobbies](#3)</br>
+[4.I Like...](#4)</br>
+[5.Target](#5)<br>
 
 
 <h2 id="1"> ME </h2>
