@@ -4,7 +4,6 @@
 ##### 이름
 > 중국어 : 欒立頎</br>
 > 한국어 : 루안리치</br>
-![pic](https://pbs.twimg.com/media/DoQLhX8UwAAW7OP.jpg)
 > 영어 : Luan Lichi / Claire
 ##### 국적
 > 대만 Taiwan  
@@ -81,7 +80,9 @@
 ## Targets
 > 살빼기</br>
 > 프로그램밍 잘 배우기</br>
-> 한국어 잘 배우기
+> 한국어 잘 배우기</br>
+
+![pic](https://scontent-icn1-1.xx.fbcdn.net/v/t1.0-9/42785679_2007578235960822_5411442330903248896_n.jpg?_nc_cat=102&oh=4b2b528151a1015c89d36a83547a22b7&oe=5C6082BE)
 
 
 
