@@ -1,5 +1,5 @@
 
-<h1><font color="purple"> My self-introduction mind map </h1></font>
+<font color="purple"> My self-introduction mind map <font>
 
 ## 목록
 [1. ME](#1)</br>
