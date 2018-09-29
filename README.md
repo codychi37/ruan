@@ -1,19 +1,19 @@
 
 # My self-introduction mind map
 ## ME
-#### 이름
+##### 이름
 > 중국어 : 欒立頎</br>
 > 한국어 : 루안리치</br>
 > 영어 : Luan Lichi / Claire
-#### 국적
+##### 국적
 > 대만 Taiwan  
 >> 타이중 Taichung
-#### 생년
+##### 생년
 > 1999/12/15
-#### 학력
+##### 학력
 > [타이중여자고등학교](http://itcgs.tcgs.tc.edu.tw/tcgs/)</br>
 > [서울시립대학교 컴퓨터과학부](http://cs.uos.ac.kr/cs/main.do)
-#### SNS
+##### SNS
 > Instagram [chi_rm](http://instagram.com/chi_rm)</br>
 > Facebook [Claire Luan](https://www.facebook.com/profile.php?id=100001259964047)</br>
 > Youtube [RuAN RUAN](https://www.youtube.com/channel/UCkgYuPLbCXadpVhIv9rj6og?view_as=subscriber)  
@@ -33,38 +33,38 @@
 > Qingshui J.H.
 
 ## Hobbies
-#### 음악
+##### 음악
 > 바이올린</br>
 > 피아노
-#### 운동
+##### 운동
 > 수영</br>
 > 배구
-#### 영상만들기
+##### 영상만들기
 > Youtube [RuAN RUAN](https://www.youtube.com/channel/UCkgYuPLbCXadpVhIv9rj6og?view_as=subscriber) 
 ## I like...
-#### 책
+##### 책
 > [被窩是青春的墳墓](http://www.eslite.com/product.aspx?pgid=1001183842652379&kw=被窩是青春的墳墓&pi=0)</br>
 > [언어의온도](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&barcode=9791195522125)
-#### 드라마
+##### 드라마
 > 시티헌터
 >> 한국어 배우는 계기
-#### 영화
+##### 영화
 > [악녀](https://namu.wiki/w/악녀(영화))</br>
 > [아저씨](https://namu.wiki/w/아저씨(영화))
-#### 연예인
+##### 아이돌
 > 방탄소년단
 >> [피땀눈물](https://youtu.be/hmE9f-TEutc), [봄날](https://youtu.be/xEeFrLSkMm8)</br>
 > 인피니트
 >> [태풍](https://youtu.be/Cmhca-ROWwQ), [Back](https://youtu.be/YiiqHq_kNnU)
-#### 유튜버
+##### 유튜버
 > [lizzydaily](https://www.youtube.com/user/MrLiz0908)</br>
 > [craziejulia](https://www.youtube.com/channel/UCec_7OC0VlWA2i9CJz1UtyQ)
-#### 음식
+##### 음식
 > 대만
 >> 버블티, 루로우판</br>
 > 한국
 >> 김치찌개, 된장찌개
-#### 여행
+##### 여행
 
 ## Targets
 > 살빼기</br>
