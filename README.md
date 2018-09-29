@@ -16,13 +16,13 @@
  > 한국어 : 루안리치</br>
  > 영어 : Luan Lichi / Claire
 ##### 국적
-> 대만 Taiwan  
->> 타이중 Taichung
+ > 대만 Taiwan  
+  >> 타이중 Taichung
 ##### 생일
-> 1999/12/15
+ > 1999/12/15
 ##### 학력
-> [타이중여자고등학교](http://itcgs.tcgs.tc.edu.tw/tcgs/) 졸업</br>
-> [서울시립대학교 컴퓨터과학부](http://cs.uos.ac.kr/cs/main.do) 재학
+ > [타이중여자고등학교](http://itcgs.tcgs.tc.edu.tw/tcgs/) 졸업</br>
+ > [서울시립대학교 컴퓨터과학부](http://cs.uos.ac.kr/cs/main.do) 재학
 ##### 가족
 > 아빠
 >> 퇴역군인 공군  
