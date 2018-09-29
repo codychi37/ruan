@@ -1,16 +1,17 @@
 # ruan
 self-introduction mind map
 
-# 루안리치 Luan Lichi 欒立頎
+# My self-introduction mind map
 ## ME
+#### 이름
+> 중국어 : 欒立頎</br>
+> 한국어 : 루안리치</br>
+> 영어 : Luan Lichi / Claire
 #### 국적
 > 대만 Taiwan  
-
-![TW](http://thefactfile-lxh7vfdm.stackpathdns.com/wp-content/uploads/2016/04/Map-of-Taiwan.png)
+>> 타이중 Taichung
 #### 생년
 > 1999/12/15
-#### 키
-> 158cm
 #### 학력
 > [타이중여자고등학교](http://itcgs.tcgs.tc.edu.tw/tcgs/)  
 
@@ -35,8 +36,7 @@ self-introduction mind map
 > Qingshui E.S.</br>
 > Huagang J.H.</br>
 > Qingshui J.H.
-##### Competition Experience
-> 
+
 ## 취미
 #### 음악
 > 바이올린  
@@ -46,10 +46,6 @@ self-introduction mind map
 > 수영  
 
 > 배구
-#### 언어
-> 한국어  
-
-> 영어
 #### 영상만들기
 > Youtube [RuAN RUAN](https://www.youtube.com/channel/UCkgYuPLbCXadpVhIv9rj6og?view_as=subscriber) 
 ## 좋아하는
@@ -81,15 +77,11 @@ self-introduction mind map
 > 한국
 >> 김치찌개, 된장찌개
 #### 여행
-> Have Been
->> 상하이, 부산, 대구, 강원도  
 
-> 가고싶은
->> 저장, 태국, LA...
 ## 목표
-##### 살빼기
-##### 프로그램밍 잘 배우기
-##### 한국어 잘 배우기
+> 살빼기</br>
+> 프로그램밍 잘 배우기</br>
+> 한국어 잘 배우기
 
 
 
