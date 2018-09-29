@@ -13,8 +13,8 @@
 
 ##### 이름
  - 중국어 : 欒立頎</br>
-  - 한국어 : 루안리치</br>
-   - 영어 : Luan Lichi / Claire
+          - 한국어 : 루안리치</br>
+                  - 영어 : Luan Lichi / Claire
 ##### 국적
 > 대만 Taiwan  
 >> 타이중 Taichung
