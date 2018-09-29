@@ -1,5 +1,5 @@
 
-<table><tr><td bgcolor=orange>*My self-introduction mind map*</td></tr></table>
+<table><tr>My self-introduction mind map</tr></table>
 
 ## 목록
 [1. ME](#1)</br>
