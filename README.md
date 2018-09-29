@@ -1,5 +1,3 @@
-# ruan
-self-introduction mind map
 
 # My self-introduction mind map
 ## ME
@@ -22,7 +20,7 @@ self-introduction mind map
 > Facebook [Claire Luan](https://www.facebook.com/profile.php?id=100001259964047)  
 
 > Youtube [RuAN RUAN](https://www.youtube.com/channel/UCkgYuPLbCXadpVhIv9rj6og?view_as=subscriber)  
-## 경력
+## Experience
 ##### 한국어능력시험 TOPIK
 > 2016/10 2급</br>
 > 2017/10 4급</br>
@@ -37,7 +35,7 @@ self-introduction mind map
 > Huagang J.H.</br>
 > Qingshui J.H.
 
-## 취미
+## Hobbies
 #### 음악
 > 바이올린  
 
@@ -48,7 +46,7 @@ self-introduction mind map
 > 배구
 #### 영상만들기
 > Youtube [RuAN RUAN](https://www.youtube.com/channel/UCkgYuPLbCXadpVhIv9rj6og?view_as=subscriber) 
-## 좋아하는
+## I like...
 #### 책
 > [被窩是青春的墳墓](http://www.eslite.com/product.aspx?pgid=1001183842652379&kw=被窩是青春的墳墓&pi=0)  
 
@@ -78,7 +76,7 @@ self-introduction mind map
 >> 김치찌개, 된장찌개
 #### 여행
 
-## 목표
+## Targets
 > 살빼기</br>
 > 프로그램밍 잘 배우기</br>
 > 한국어 잘 배우기
